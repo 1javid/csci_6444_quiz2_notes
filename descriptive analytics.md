@@ -107,11 +107,15 @@ factoextra::fviz_cluster(km, data = df)
 
 Four datasets with nearly identical summary statistics but different distributions, illustrating the necessity of graphical analysis before modeling. Each set has eleven (x,y) points, highlighting how outliers and patterns can be obscured by statistics alone.
 
-![image](https://github.com/user-attachments/assets/3f04719b-4d7a-4743-8590-f85a36b8a6f6)
+<img src="https://github.com/user-attachments/assets/3f04719b-4d7a-4743-8590-f85a36b8a6f6" 
+     alt="output" 
+     width="500" />
 
 ### Other Clustering Techniques
 
-![image](https://github.com/user-attachments/assets/98e4516e-692e-4489-b505-ffb6221061f6)
+<img src="https://github.com/user-attachments/assets/98e4516e-692e-4489-b505-ffb6221061f6" 
+     alt="output" 
+     width="500" />
 
 ---
 
