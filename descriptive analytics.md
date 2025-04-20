@@ -190,7 +190,7 @@ Plot eigenvalues in descending order; retain components left of the elbow.
 
 > “In the end, [predictive modeling] is not a substitute for intuition, but a complement.”\
 > — Ian Ayres, *Supercrunchers*\
-> *This emphasizes that data-driven models should augment, not replace, human judgment, blending rigorous analysis with expert insight.*
+*This emphasizes that data-driven models should augment, not replace, human judgment, blending rigorous analysis with expert insight.*
 
 ---
 
