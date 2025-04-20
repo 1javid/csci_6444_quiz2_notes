@@ -2,7 +2,7 @@
 
 **Definition (SAS):**
 
-> Predictive analytics is the use of data, statistical algorithms and machine learning techniques to identify the likelihood of future outcomes based on historical data. The goal is to go beyond knowing what has happened to providing a best assessment of what will happen in the future. [[Source\]](https://www.sas.com/en_us/insights/analytics/predictive-analytics.html)\
+> Predictive analytics is the use of data, statistical algorithms and machine learning techniques to identify the likelihood of future outcomes based on historical data. The goal is to go beyond knowing what has happened to providing a best assessment of what will happen in the future.
 > With a robust advanced analytic system, the “predictions” might be significantly better.
 
 **Truth‑Telling (Michael Wu, Lithium Technologies):**
