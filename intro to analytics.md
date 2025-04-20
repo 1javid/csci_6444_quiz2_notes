@@ -10,8 +10,8 @@
 ## Expert Perspective
 
 > “When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.”
->
-> A seasoned scientist’s confidence in what’s possible stems from long‑standing experience with successful methods, making their positive assessments reliable. However, when they declare something impossible, they may simply be constrained by the limits of current tools and theories rather than absolute truth. Innovation often arises when fresh perspectives challenge these boundaries, turning yesterday’s impossibilities into today’s realities.
+
+A seasoned scientist’s confidence in what’s possible stems from long‑standing experience with successful methods, making their positive assessments reliable. However, when they declare something impossible, they may simply be constrained by the limits of current tools and theories rather than absolute truth. Innovation often arises when fresh perspectives challenge these boundaries, turning yesterday’s impossibilities into today’s realities.
 
 ---
 
@@ -60,9 +60,9 @@
 
 **Value vs. Difficulty**
 
-*(Chart placeholder)*
-
----
+<img src="https://github.com/user-attachments/assets/29ddc072-df4f-4064-8406-c043a9680493" 
+     alt="output" 
+     width="500" />
 
 ## Big Data Considerations
 
