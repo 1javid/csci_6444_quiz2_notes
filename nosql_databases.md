@@ -1,29 +1,17 @@
-**Codd's Twelve Rules**
+# Codd's Twelve Rules
 
-1. **Information Rule**\
-   All data is represented in tables.
-2. **Guaranteed Access Rule**\
-   Every value accessible via table, row, column.
-3. **Systematic Treatment of Nulls**\
-   Uniform handling of missing data (NULL).
-4. **Dynamic Online Catalog**\
-   Metadata stored in tables, queryable by SQL.
-5. **Comprehensive Data Sublanguage Rule**\
-   Single language (e.g., SQL) for definition, manipulation, and transactions.
-6. **View Updating Rule**\
-   Updatable views propagate changes to base tables.
-7. **Set-Level Insertion, Update, and Deletion**\
-   Bulk operations on multiple rows.
-8. **Physical Data Independence**\
-   Storage changes don’t affect applications.
-9. **Logical Data Independence**\
-   Schema changes (new columns/tables) don’t break apps.
-10. **Integrity Independence**\
-    Constraints managed in catalog, not in code.
-11. **Distribution Independence**\
-    Data distribution is transparent to users.
-12. **Nonsubversion Rule**\
-    Low‑level interfaces cannot bypass relational constraints.
+1. **Information Rule** - All data is represented in tables.
+2. **Guaranteed Access Rule** - Every value accessible via table, row, column.
+3. **Systematic Treatment of Nulls** - Uniform handling of missing data (NULL).
+4. **Dynamic Online Catalog** - Metadata stored in tables, queryable by SQL.
+5. **Comprehensive Data Sublanguage Rule** - Single language (e.g., SQL) for definition, manipulation, and transactions.
+6. **View Updating Rule** - Updatable views propagate changes to base tables.
+7. **Set-Level Insertion, Update, and Deletion** - Bulk operations on multiple rows.
+8. **Physical Data Independence** - Storage changes don’t affect applications.
+9. **Logical Data Independence** - Schema changes (new columns/tables) don’t break apps.
+10. **Integrity Independence** - Constraints managed in catalog, not in code.
+11. **Distribution Independence** - Data distribution is transparent to users.
+12. **Nonsubversion Rule** - Low‑level interfaces cannot bypass relational constraints.
 
 ---
 
